@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Reactshop/static/css/main.2326ad98.css",
+    "main.js": "/Reactshop/static/js/main.125cc02d.js",
+    "static/media/sminkfooter.jpg": "/Reactshop/static/media/sminkfooter.5b3f37ff7d1cfaa61f79.jpg",
+    "static/media/ReactBackgroundMakeup.jpg": "/Reactshop/static/media/ReactBackgroundMakeup.a670c4977e6cd4a2878e.jpg",
+    "static/media/perfume.png": "/Reactshop/static/media/perfume.00d4db871edff56dd620.png",
+    "index.html": "/Reactshop/index.html",
+    "static/media/logo.svg": "/Reactshop/static/media/logo.da4b51acb0560ba828181f88645fc579.svg",
+    "main.2326ad98.css.map": "/Reactshop/static/css/main.2326ad98.css.map",
+    "main.125cc02d.js.map": "/Reactshop/static/js/main.125cc02d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2326ad98.css",
+    "static/js/main.125cc02d.js"
+  ]
+}
